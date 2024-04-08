@@ -1,6 +1,6 @@
 # Vehicle Specification
 
-Freight and Passenger vehicle specification.
+Specification for freight and passenger vehicles.
 
 ### Basic information
 
