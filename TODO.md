@@ -1,0 +1,3 @@
+- Fill up empty blanks
+- Specifcy if missing data
+- Add electric vehicles - freight and passenger vehicles
