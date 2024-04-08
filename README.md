@@ -1,6 +1,6 @@
 # Vehicle Specification
 
-Specification for freight and passenger vehicles.
+Specification for some of the common freight and passenger vehicles operational in India.
 
 ### Basic information
 
