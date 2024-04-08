@@ -1,4 +1,4 @@
-# Vehicle specification
+# Vehicle Specification
 
 Freight and Passenger vehicle specification.
 
