@@ -1,4 +1,4 @@
-# Vehicle Specification
+# Indian Vehicle Specification
 
 Specification for some of the common freight and passenger vehicles operational in India.
 
